@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"valyn_battler","characterIndex":0,"characterName":"valyn","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"valyn","traits":[],"initialLevel":1,"maxLevel":99,"name":"Valyn","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"aubrey_battler","characterIndex":0,"characterName":"aubrey","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"aubrey","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aubrey","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"elf_battle","characterIndex":0,"characterName":"elf","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"elf","traits":[],"initialLevel":1,"maxLevel":99,"name":"Elf","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"richard_battler","characterIndex":0,"characterName":"richard","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"richard","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
+]
